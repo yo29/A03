@@ -1,0 +1,25 @@
+Definitions---
+
+Branch - It is another version of the original project, can be used as a test enviornment before committing to the original.
+
+Clone - Downloads an existing repoistory to your local system.
+
+Commit - This is like saving the progress without implementing and using the changes you have made so far.
+
+Fetch - Retrieves any new data that was added since the last update.
+
+GIT - This is a version control software that allows making changes to different projects without overwriting the past changes.
+
+Github- It is place where others can collaborate and work on coding projects using version control.
+
+Merge - It brings multiple branches back into one main branch
+
+Merge Conflict - Arises when merging and Git does not know how to merge the branches, like a same file being edited in different ways in different branches.
+
+Push - This uploads all the local commits to the remote branch and implements all changes from the last push.
+
+Pull - Like fetch it retrieves new data but also implements the new data into the local system.
+
+Remote- This allows to manage the remotes that your local repository is working with.
+
+Repository - Where your all of your files are stored, like a projects folder.
